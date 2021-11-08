@@ -60,7 +60,7 @@ function logIn( ingreso ) {
         salirBtn.removeClass('oculto');
         timeline.removeClass('oculto');
         avatarSel.addClass('oculto');
-        modalAvatar.attr('src','../Images/avatars/' + usuario + '.jpeg');
+        modalAvatar.attr('src','Images/avatars/' + usuario + '.jpeg');
     } else {
         nuevoBtn.addClass('oculto');
         salirBtn.addClass('oculto');
