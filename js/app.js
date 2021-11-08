@@ -31,7 +31,7 @@ function crearMensajeHTML(mensaje, personaje) {
     var content =`
     <li class="animated fadeIn fast">
         <div class="avatar">
-            <img src="Images/avatars/${ personaje }.jpeg">
+            <img src="/Images/avatars/${ personaje }.jpeg">
         </div>
         <div class="bubble-container">
             <div class="bubble">
@@ -60,7 +60,7 @@ function logIn( ingreso ) {
         salirBtn.removeClass('oculto');
         timeline.removeClass('oculto');
         avatarSel.addClass('oculto');
-        modalAvatar.attr('src', '/img/avatars/' + usuario + '.jpeg');
+        modalAvatar.attr('src', '/Images/avatars/' + usuario + '.jpeg');
     } else {
         nuevoBtn.addClass('oculto');
         salirBtn.addClass('oculto');
