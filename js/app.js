@@ -1,5 +1,17 @@
-if(navigator.serviceWorker)
+var url= window.location.href;
+var swlocation= '/chatbreakingbad.github.io/sw.js';
+
+if(navigator.serviceWorker){
+    if(url.includes('localhost')){
+      swlocation='/sw.js';
+    } 
+    else{
+       navigator.serviceWorker.register(swlocation);
+        
+    }
 navigator.serviceWorker.register('../sw.js');
+  
+}
 
 
 
