@@ -7,7 +7,7 @@ const APP_SHELL = [
     //'/',
     'index.html',
     'css/style.css',
-    'Images/image.ico',
+    'Images/image.png',
     'Images/port_4.jpeg',
     'Images/avatars/HankSchrader.jpeg',
     'Images/avatars/JessePinkmak.jpeg',
