@@ -7,19 +7,19 @@
     "orientation": "landscape",
     "theme_color": "#569C30",
     "icons": [{
-        "src": "img/icons/icon16x16.png",
+        "src": "Images/icons/icon16x16.png",
         "type": "image/png",
         "sizes": "16x16"
         }, {
-        "src": "img/icons/icon32x32.png",
+        "src": "Images/icons/icon32x32.png",
         "type": "image/png",
         "sizes": "32x32"
         }, {
-        "src": "img/icons/icon48x48.png",
+        "src": "Images/icons/icon48x48.png",
         "type": "image/png",
         "sizes": "48x48"
         }, {
-        "src": "img/icons/icon128x128.png",
+        "src": "Images/icons/icon128x128.png",
         "type": "image/png",
         "sizes": "128x128"
         }]
