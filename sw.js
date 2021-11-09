@@ -7,13 +7,13 @@ const APP_SHELL = [
     '/',
     'index.html',
     'css/style.css',
-    'img/image.ico',
-    'img/port_4.jpeg',
-    'img/avatars/Hank Schrader.jpeg',
-    'img/avatars/Jesse Pinkmak.jpeg',
-    'img/avatars/Mike Ehrmantraut.jpeg',
-    'img/avatars/Saúl Goodman.jpeg',
-    'img/avatars/Walter White.jpeg',
+    'Images/image.ico',
+    'Images/port_4.jpeg',
+    'Images/avatars/HankSchrader.jpeg',
+    'Images/avatars/JessePinkmak.jpeg',
+    'Images/avatars/MikeEhrmantraut.jpeg',
+    'Images/avatars/SaulGoodman.jpeg',
+    'Images/avatars/WalterWhite.jpeg',
     'js/app.js'
 ];
 
